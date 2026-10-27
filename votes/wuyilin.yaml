@@ -1,0 +1,13 @@
+version: 2
+votes:
+  ai-sales-会话记录数据契约与使用地图-2026-10-27-9mvhst:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-10-27T08:24:32.498Z
+  缺少测试数据时的真实链路验证与故障定位-2026-10-27-3oluap:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-10-27T08:24:32.498Z
+deltas: {}
+deliveredSyncIds:
+  - 25a58caa-1187-46a3-b5b3-4e78487dcfe4
