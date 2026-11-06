@@ -1,5 +1,5 @@
 username: wuyilin
-updatedAt: 2026-11-06T02:41:04.583Z
+updatedAt: 2026-11-06T02:43:49.801Z
 skills:
   teamai:
     count: 14
@@ -181,7 +181,7 @@ daily:
     sessionsEnded: 7
     sessionsSucceeded: 7
     promptTurns: 73
-    durationMs: 38352311
+    durationMs: 38526484
     sessionsCorrected: 0
     pricedRequests: 162
     costMicros: 10579395
@@ -299,7 +299,7 @@ attended:
       sessionsEnded: 7
       sessionsSucceeded: 7
       promptTurns: 73
-      durationMs: 38352311
+      durationMs: 38526484
       sessionsCorrected: 0
       pricedRequests: 162
       costMicros: 10579395
