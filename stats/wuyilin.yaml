@@ -1,19 +1,19 @@
 username: wuyilin
-updatedAt: 2026-11-21T10:48:09.451Z
+updatedAt: 2026-11-21T11:10:08.372Z
 skills:
   teamai:
-    count: 18
-    lastUsed: 2026-11-18T11:41:10.835Z
+    count: 19
+    lastUsed: 2026-11-21T10:49:17.059Z
 interventions:
-  sessions: 2145
+  sessions: 2146
   interrupt: 0
   toolReject: 0
   correction: 153
-prompts: 10565
+prompts: 10566
 tokens:
-  input: 2104932693
-  output: 161090241
-  cacheRead: 39402342144
+  input: 2105238929
+  output: 161107083
+  cacheRead: 39411431040
   cacheCreation: 0
 daily:
   2026-10-16:
@@ -330,17 +330,28 @@ daily:
     cacheReadTokens: 4079616
     cacheEligibleInputTokens: 4330595
     priceVersion: litellm-2026-10-31-b264711
+  2026-11-21:
+    sessionsEnded: 2
+    sessionsSucceeded: 2
+    promptTurns: 2
+    durationMs: 1449395
+    sessionsCorrected: 0
+    pricedRequests: 11
+    costMicros: 550439
+    cacheReadTokens: 9088896
+    cacheEligibleInputTokens: 9395132
+    priceVersion: litellm-2026-10-31-b264711
 attended:
   interventions:
-    sessions: 144
+    sessions: 145
     interrupt: 0
     toolReject: 0
     correction: 10
-  prompts: 798
+  prompts: 799
   tokens:
-    input: 124399223
-    output: 8608059
-    cacheRead: 3333275520
+    input: 124705459
+    output: 8624901
+    cacheRead: 3342364416
     cacheCreation: 0
   daily:
     2026-10-28:
@@ -556,6 +567,17 @@ attended:
       costMicros: 2996481
       cacheReadTokens: 4079616
       cacheEligibleInputTokens: 4330595
+      priceVersion: litellm-2026-10-31-b264711
+    2026-11-21:
+      sessionsEnded: 2
+      sessionsSucceeded: 2
+      promptTurns: 2
+      durationMs: 1449395
+      sessionsCorrected: 0
+      pricedRequests: 11
+      costMicros: 550439
+      cacheReadTokens: 9088896
+      cacheEligibleInputTokens: 9395132
       priceVersion: litellm-2026-10-31-b264711
 outcomes:
   attended:
