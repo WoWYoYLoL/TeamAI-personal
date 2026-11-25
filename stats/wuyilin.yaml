@@ -1,19 +1,19 @@
 username: wuyilin
-updatedAt: 2026-11-24T10:31:37.531Z
+updatedAt: 2026-11-25T01:29:39.440Z
 skills:
   teamai:
-    count: 19
-    lastUsed: 2026-11-21T10:49:17.059Z
+    count: 20
+    lastUsed: 2026-11-24T10:31:48.176Z
 interventions:
-  sessions: 2156
+  sessions: 2157
   interrupt: 0
   toolReject: 0
   correction: 153
-prompts: 10584
+prompts: 10587
 tokens:
-  input: 2107023290
-  output: 161172105
-  cacheRead: 39444044544
+  input: 2107391080
+  output: 161190155
+  cacheRead: 39449445888
   cacheCreation: 0
 daily:
   2026-10-16:
@@ -234,13 +234,13 @@ daily:
   2026-11-09:
     sessionsEnded: 9
     sessionsSucceeded: 8
-    promptTurns: 168
-    durationMs: 61129384
+    promptTurns: 170
+    durationMs: 61916654
     sessionsCorrected: 1
     pricedRequests: 740
     costMicros: 36714039
-    cacheReadTokens: 624373120
-    cacheEligibleInputTokens: 642789475
+    cacheReadTokens: 629433344
+    cacheEligibleInputTokens: 648198253
     priceVersion: litellm-2026-10-31-b264711
   2026-11-16:
     sessionsEnded: 8
@@ -353,27 +353,38 @@ daily:
     cacheEligibleInputTokens: 2263495
     priceVersion: litellm-2026-10-31-b264711
   2026-11-24:
-    sessionsEnded: 5
-    sessionsSucceeded: 5
-    promptTurns: 5
-    durationMs: 1025199
+    sessionsEnded: 6
+    sessionsSucceeded: 6
+    promptTurns: 6
+    durationMs: 1126181
     sessionsCorrected: 0
-    pricedRequests: 53
-    costMicros: 4458904
-    cacheReadTokens: 2152960
-    cacheEligibleInputTokens: 2607980
+    pricedRequests: 62
+    costMicros: 4718655
+    cacheReadTokens: 2494080
+    cacheEligibleInputTokens: 2968336
+    priceVersion: litellm-2026-10-31-b264711
+  2026-11-25:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 16
+    costMicros: 2642241
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
     priceVersion: litellm-2026-10-31-b264711
 attended:
   interventions:
-    sessions: 155
+    sessions: 156
     interrupt: 0
     toolReject: 0
     correction: 10
-  prompts: 817
+  prompts: 820
   tokens:
-    input: 126489820
-    output: 8689923
-    cacheRead: 3374977920
+    input: 126857610
+    output: 8707973
+    cacheRead: 3380379264
     cacheCreation: 0
   daily:
     2026-10-28:
@@ -494,13 +505,13 @@ attended:
     2026-11-09:
       sessionsEnded: 9
       sessionsSucceeded: 8
-      promptTurns: 168
-      durationMs: 61129384
+      promptTurns: 170
+      durationMs: 61916654
       sessionsCorrected: 1
       pricedRequests: 740
       costMicros: 36714039
-      cacheReadTokens: 624373120
-      cacheEligibleInputTokens: 642789475
+      cacheReadTokens: 629433344
+      cacheEligibleInputTokens: 648198253
       priceVersion: litellm-2026-10-31-b264711
     2026-11-16:
       sessionsEnded: 8
@@ -613,23 +624,34 @@ attended:
       cacheEligibleInputTokens: 2263495
       priceVersion: litellm-2026-10-31-b264711
     2026-11-24:
-      sessionsEnded: 5
-      sessionsSucceeded: 5
-      promptTurns: 5
-      durationMs: 1025199
+      sessionsEnded: 6
+      sessionsSucceeded: 6
+      promptTurns: 6
+      durationMs: 1126181
       sessionsCorrected: 0
-      pricedRequests: 53
-      costMicros: 4458904
-      cacheReadTokens: 2152960
-      cacheEligibleInputTokens: 2607980
+      pricedRequests: 62
+      costMicros: 4718655
+      cacheReadTokens: 2494080
+      cacheEligibleInputTokens: 2968336
+      priceVersion: litellm-2026-10-31-b264711
+    2026-11-25:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 16
+      costMicros: 2642241
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
       priceVersion: litellm-2026-10-31-b264711
 outcomes:
   attended:
     none:
-      sessions: 113
+      sessions: 116
       tokens:
-        input: 35532827
-        output: 3276799
+        input: 35900101
+        output: 3291884
       interventions: 5
     commit:
       sessions: 1
