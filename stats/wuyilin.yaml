@@ -1,9 +1,9 @@
 username: wuyilin
-updatedAt: 2026-11-25T11:01:33.400Z
+updatedAt: 2026-11-26T01:00:59.089Z
 skills:
   teamai:
-    count: 20
-    lastUsed: 2026-11-24T10:31:48.176Z
+    count: 21
+    lastUsed: 2026-11-25T13:16:20.975Z
 interventions:
   sessions: 2180
   interrupt: 0
@@ -648,10 +648,10 @@ attended:
 outcomes:
   attended:
     none:
-      sessions: 134
+      sessions: 139
       tokens:
-        input: 36129953
-        output: 3293222
+        input: 38013497
+        output: 3400781
       interventions: 5
     commit:
       sessions: 1
