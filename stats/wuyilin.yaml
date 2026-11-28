@@ -1,15 +1,15 @@
 username: wuyilin
-updatedAt: 2026-11-27T11:06:11.528Z
+updatedAt: 2026-11-28T11:04:18.079Z
 skills:
   teamai:
     count: 22
     lastUsed: 2026-11-26T11:49:20.145Z
 interventions:
-  sessions: 2191
+  sessions: 2192
   interrupt: 0
   toolReject: 0
   correction: 153
-prompts: 10707
+prompts: 10708
 tokens:
   input: 2119390104
   output: 161847514
@@ -398,11 +398,11 @@ daily:
     priceVersion: litellm-2026-10-31-b264711
 attended:
   interventions:
-    sessions: 190
+    sessions: 191
     interrupt: 0
     toolReject: 0
     correction: 10
-  prompts: 940
+  prompts: 941
   tokens:
     input: 138856634
     output: 9365332
@@ -692,10 +692,10 @@ attended:
 outcomes:
   attended:
     none:
-      sessions: 147
+      sessions: 151
       tokens:
-        input: 39440956
-        output: 3461451
+        input: 39999948
+        output: 3479672
       interventions: 5
     commit:
       sessions: 1
